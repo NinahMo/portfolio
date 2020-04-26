@@ -37,7 +37,9 @@ body {
 }
 .projects p {
   background-color: coral;
+  font-style: oblique;
 }
 .me p {
-  background-color: steelblue;
+  background-color: yellow;
+  font-style: oblique;
 }
