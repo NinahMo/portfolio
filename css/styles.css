@@ -35,3 +35,9 @@ body {
     padding: 15px;
   }
 }
+.projects p {
+  background-color: coral;
+}
+.me p {
+  background-color: steelblue;
+}
