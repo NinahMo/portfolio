@@ -41,4 +41,5 @@ body {
 .me p {
   background-color: yellow;
   font-style: oblique;
+  font-synthesis: weight;
 }
