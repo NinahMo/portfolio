@@ -6,9 +6,9 @@ This is my web portfolio . Its basically just about me and where I will be showc
 ## Known Bugs
 Incase you come across any bugs feel free to raise the issue.
 ## Technologies Used
-html
+HTML
 CSS
-cascade
+Javascript
 ## Support and contact details
 Incase you have any queries, contributions, comments or correction kindly contact me at ninahb746@gmail.com
 ### License
